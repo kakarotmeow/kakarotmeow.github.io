@@ -1,11 +1,11 @@
 ## Kakarot.Octa
 
-# Whoami
-
-
 ### Markdown
 
 ```markdown
+# whoami
+My name Rifat Al jubaer a.k.a “Kakarot.Octa” Love to make things/breaking it | Passionate of Hacking
+
 ### You can find my perfil here:
 # Bugcrowd
 # Hackerone
