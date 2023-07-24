@@ -1,0 +1,100 @@
+body {
+	background-color: #000
+}
+
+#console {
+	font-family: courier, monospace;
+	color: #fff;
+	width:750px;
+	margin-left:auto;
+	margin-right:auto;
+	margin-top:100px;
+	font-size:14px;
+}
+
+a {
+	color: #0785f2;
+	text-decoration: none;
+}
+
+#a {
+	color: lime;
+}
+
+#b {
+	color: #ff0096;
+}
+
+
+#e {
+	color: #2787EA;
+}
+
+
+h4 {
+    color: #F57C00;
+
+}
+
+#j {
+	color: #FEFEFE;
+}
+
+#k {
+    	animation: change 1s;
+}
+
+#op{
+    	color: #888888
+}
+
+@keyframes change {
+    	0%  { color:  lime; }
+    	50% { color:  lime; }
+    	99% { color: black; }
+}
+
+
+.linkedin-button {
+	background-color: #0077B5;
+	color: white;
+	padding: 3px 11px;
+	border: 2px solid #0077B5;
+	border-radius: 5px;
+	font-size: 14px;
+	text-decoration: none;
+	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+	}
+	
+	.linkedin-button:hover {
+	background-color: #005F8D;
+	}
+	
+	.facebook-button {
+	background-color: #1877F2;
+	color: white;
+	padding: 3px 6px;
+	border: 2px solid #1877F2;
+	border-radius: 5px;
+	font-size: 14px;
+	text-decoration: none;
+	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif}
+	
+	.facebook-button:hover {
+	background-color: #0E63A9}
+
+	.github-button {
+		background-color: #24292e;
+		color: white;
+		padding: 3px 15px;
+		border: 2px solid #24292e;
+		border-radius: 5px;
+		font-size: 14px;
+		text-decoration: none;
+		font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+	}
+	
+	.github-button:hover {
+		background-color: #1c2024;
+	}
+	

@@ -1,0 +1,24 @@
+<span id="e">┌──(kakarot㉿Ziro)</span>-<span id="e">[</span><span id="e">/about]</span>
+<span id="e">└─$</span> cat Me.txt<br/><br/>
+
+<span id="a">Hi, I'm </span><span id="j">Rifat Al Jubayer</span>,<span id="a"> a passionate self-taught Hacker.</span>
+ 
+<mark class="blue">Education</mark>:<span id="a"><p>I'm a Computer Science Student. I enjoy studying Programming languages, In fact anything related to the Software development field attracts me.</p></span>
+<mark class="blue">Career Experience</mark>:<span id="a"><p>I have helped find and exploit over 300 security vulnerabilities across 70+ web applications for Internet giants like Apple, Microsoft, etc.</p></span>
+
+My favorite quote, "<span id="k">If You Break My Heart, I'll Break Your Security.</span>" <br>
+
+<h4>You can visit my profiles:</h4> <a href="https://linkedin.com" class="linkedin-button">LinkedIn</a> <br> 
+                                    <a href="https://github.com" class="github-button">GitHub</a> <br>
+                                    <a href="https://www.facebook.com" class="facebook-button">Facebook</a> <br> 
+
+
+
+If you want to contact me<!-- slightdelayhere-->, feel free to email me: <a href="mailto: rifataljubaer2@gmail.com
+">rifataljubaer2@gmail.com
+</a>
+<p>Cheers!</p>
+
+
+
+
